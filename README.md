@@ -1,5 +1,4 @@
 # VehiclePredictor
-<h1> Vehicle Type Predictor </h1>
 
 This model classifies the image uploaded into of the following categories:
 1. Car
